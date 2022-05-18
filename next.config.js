@@ -11,7 +11,7 @@ module.exports = {
       {
         source: '/',
         destination: 'https://albmedia.net/',
-        permanent: true,
+        permanent: false,
       },
     ]
   },
